@@ -100,7 +100,7 @@ function send_to_twygo( $post_ID ) {
         'last_name' => $order->billing_last_name,
         'email' => $order->billing_email,
         'enterprise' => empty($order->billing_company) ? 'WooCommerce' : $order->billing_company,
-        'external_ids' => $external_ids
+        'events_external_ids' => $external_ids
       );
       $url = get_option( 'url_twygo' ) == false ? 'https://www.twygoead.com' : get_option( 'url_twygo' );
       $token = getToken($data, get_option( 'email_twygo' ), get_option( 'password_twygo' ), $url);
