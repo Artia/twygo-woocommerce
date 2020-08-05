@@ -1,6 +1,6 @@
 # Como functiona a integração?
 
-> A integraço envia dados para o Twygo, à partir de algumas ações feitas no WooCommerce.
+> O Plugin envia dados para o Twygo, à partir de algumas ações feitas no WooCommerce.
 
 <br/>
 
