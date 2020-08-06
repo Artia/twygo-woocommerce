@@ -2,7 +2,7 @@
 
 > Download do Plugin: https://github.com/Artia/twygo-woocommerce
 
-#### 1. WordPress
+### Passos no WordPress
 
 Após baixar o plugin, vá até a sessão <strong>Plugins</strong> no painel de administração do seu site WordPress.
 
@@ -66,4 +66,4 @@ Com o plugin ativo a página <strong>Twygo WooCommerce</strong> aparecerá no se
 
 <br/>
 
-Agora com o plugin instalado, vamos para a página de [configurações](/pages/primeiros_passos/como_funciona.md) para adicionar as configurações necessárias para o seu funcionamento. 😀
+Agora com o plugin instalado, vamos para a página de [configurações](/pages/configuracoes/configuracoes.md) para adicionar as configurações necessárias para o seu funcionamento. 😀
