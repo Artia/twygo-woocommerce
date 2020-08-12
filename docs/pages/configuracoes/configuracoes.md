@@ -44,7 +44,7 @@ O campo abaixo deverá conter a <strong>Tag</strong> que será informada nos pro
   <img src="_media/tag.png" alt="Screenshot of coverpage" title="Tela de configuração">
 </figure>
 
-##### Obs: Somente será enviado os produtos ao Twygo que contém a Tag informada.
+##### Obs: Somente será enviado ao Twygo, os produtos que contém a Tag informada.
 
 <br/>
 
