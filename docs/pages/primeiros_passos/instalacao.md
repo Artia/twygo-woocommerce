@@ -23,7 +23,7 @@ Clique no botão <strong>Adicionar Plugin</strong> dentro da sessão <strong>Plu
 Clique no botão <strong>Enviar Plugin</strong>.
 
 <figure class="thumbnails">
-  <img src="_media/instalar_plugin.png" alt="Screenshot of coverpage" title="Instalar Plugin">
+  <img src="_media/instalar_plugin.png" alt="Screenshot of coverpage" title="Enviar Plugin">
 </figure>
 
 <br/>
