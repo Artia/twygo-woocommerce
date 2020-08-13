@@ -20,7 +20,7 @@ function twygo_woocommerce_menu() {
     'manage_options',
     'config-page',
     'page_content',
-    'dashicons-schedule',
+    'dashicons-desktop',
     56
   );
 }
