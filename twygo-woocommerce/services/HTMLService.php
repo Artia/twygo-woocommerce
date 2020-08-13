@@ -1,6 +1,6 @@
 <?php
   function page_content() {
-      ?>
+    ?>
       <h1> <?php esc_html_e( 'Twygo WooCommerce.' ); ?> </h1>
       <form method="POST" action="options.php">
       <?php
@@ -10,29 +10,29 @@
       submit_button();
       ?>
       </form>
-      <?php
+    <?php
   }
 
   function paragraph() {
-      echo "
-        <p>Adicione os campos abaixo corretamente, para que a integração com o TWYGO seja efetuada com sucesso.</p>
-        <div
-          id='msg'
-          style='display: none;
-            width: 440px;
-            height: 40px;
-            border-radius: 4px;
-            display: flex;
-            justify-content: center;
-            align-items: center;'
-        >
+    echo "
+      <p>Adicione os campos abaixo corretamente, para que a integração com o TWYGO seja efetuada com sucesso.</p>
+      <div
+        id='msg'
+        style='display: none;
+          width: 440px;
+          height: 40px;
+          border-radius: 4px;
+          display: flex;
+          justify-content: center;
+          align-items: center;'
+      >
 
-        </div>
-      ";
+      </div>
+    ";
   }
 
   function email_twygo() {
-      ?>
+    ?>
       <input
         type="email"
         id="email_twygo"
@@ -40,11 +40,11 @@
         value="<?php echo get_option( 'email_twygo' ); ?>"
         placeholder="E-mail da sua conta do Twygo"
       >
-      <?php
+    <?php
   }
 
   function password_twygo() {
-      ?>
+    ?>
       <input
         type="password"
         id="password_twygo"
@@ -52,11 +52,11 @@
         value="<?php echo get_option( 'password_twygo' ); ?>"
         placeholder="Senha da sua conta do Twygo"
       >
-      <?php
+    <?php
   }
 
   function organization_id_twygo() {
-      ?>
+    ?>
       <input
         type="number"
         id="organization_id_twygo"
@@ -64,11 +64,11 @@
         value="<?php echo get_option( 'organization_id_twygo' ); ?>"
         placeholder="EX: 1"
       >
-      <?php
+    <?php
   }
 
   function tag_twygo() {
-      ?>
+    ?>
       <input
         type="text"
         id="tag_twygo"
@@ -76,11 +76,11 @@
         value="<?php echo get_option( 'tag_twygo' ); ?>"
         placeholder="Ex: published"
       >
-      <?php
+    <?php
   }
 
   function url_twygo() {
-      ?>
+    ?>
       <input
         type="text"
         id="url_twygo"
@@ -88,7 +88,7 @@
         value="<?php echo get_option( 'url_twygo' ); ?>"
         placeholder="Ex: https://www.twygoead.com"
       >
-      <?php
+    <?php
   }
 
 
