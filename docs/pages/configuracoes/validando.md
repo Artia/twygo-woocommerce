@@ -2,22 +2,22 @@
 
 > Recomendamos testar os dados informados, para garantir que a integração irá funcionar corretamente.
 
-### 1. Testando
+### 1. Testando os dados informados
 
-Após informar os dados obrigatorios, clique no botão <strong>Validar informações</strong>, para testar os dados informados nos campos.
+Após informar os dados obrigatorios, clique no botão <strong>Validar informações</strong>, para validas as informações dos campos.
 
 <figure class="thumbnails">
-  <img src="_media/testando.png" alt="Screenshot of coverpage" title="Tela de configuração">
+  <img src="_media/testando.png" alt="Screenshot of coverpage" title="Validando as informações">
 </figure>
 
 <br/>
 
 ### 2. Sucesso
 
-Se os seus dados estão corretos, a seguinte mensagem será exibida:
+Se os seus dados estão corretos e atendendo aos criterios da sessão [configurações](/pages/configuracoes/configuracoes.md#configuracões), a seguinte mensagem será exibida:
 
 <figure class="thumbnails">
-  <img src="_media/success.png" alt="Screenshot of coverpage" title="Tela de configuração">
+  <img src="_media/success.png" alt="Screenshot of coverpage" title="Sucesso">
 </figure>
 
 <br/>
@@ -27,7 +27,7 @@ Se os seus dados estão corretos, a seguinte mensagem será exibida:
 Caso ocorreu algum erro com seus dados informados, a seguinte mensagem será exibida:
 
 <figure class="thumbnails">
-  <img src="_media/fail.png" alt="Screenshot of coverpage" title="Tela de configuração">
+  <img src="_media/fail.png" alt="Screenshot of coverpage" title="Falha">
 </figure>
 
 <br/>
@@ -37,5 +37,5 @@ Caso ocorreu algum erro com seus dados informados, a seguinte mensagem será exi
 Após receber o <strong>sucesso</strong> ao validar os dados, clique no botão <strong>Salvar alterações</strong>.
 
 <figure class="thumbnails">
-  <img src="_media/save.png" alt="Screenshot of coverpage" title="Tela de configuração">
+  <img src="_media/save.png" alt="Screenshot of coverpage" title="Salvando informações">
 </figure>

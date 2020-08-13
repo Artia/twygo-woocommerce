@@ -10,5 +10,5 @@
 
 - Utilização do Plugin
 
-  - [Criando curso](/pages/utilizacao/criando_cursos.md)
-  - [Criando participantes](/pages/utilizacao/criando_participantes.md)
+  - [Criando cursos](/pages/utilizacao/criando_cursos.md)
+  - [Criando alunos](/pages/utilizacao/criando_participantes.md)
