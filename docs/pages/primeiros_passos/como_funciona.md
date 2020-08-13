@@ -1,6 +1,6 @@
 # Como functiona?
 
-> O Plugin envia dados para o Twygo, à partir de algumas ações feitas no WooCommerce.
+> O Plugin envia dados para o Twygo a partir de algumas ações feitas no WooCommerce.
 
 ### 1. Criação de Produtos
 
