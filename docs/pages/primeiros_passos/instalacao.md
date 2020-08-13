@@ -1,6 +1,6 @@
 # Instalação
 
-> Baixe o Twygo WooCommerce [clicando aqui](https://github.com/Artia/twygo-woocommerce/releases/tag/1.0.0)
+> Baixe o Twygo WooCommerce [clicando aqui](https://github.com/Artia/twygo-woocommerce/releases/tag/1.0.0).
 
 ### Passos no WordPress
 
@@ -57,6 +57,8 @@
 <figure class="thumbnails">
   <img src="_media/ativado_com_sucesso.png" alt="Screenshot of coverpage" title="Plugin ativado com sucesso">
 </figure>
+
+<br/>
 
 8. Com o plugin ativo a página <strong>Twygo WooCommerce</strong> aparecerá no seu painel.
 

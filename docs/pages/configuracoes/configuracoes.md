@@ -1,6 +1,6 @@
 # Configuracões
 
-> A integração terá êxito somente se for preenchido corretamente os campos solicitados na página de configuração do Plugin.
+> A integração somente terá êxito, se for preenchido corretamente os campos solicitados na página de configuração do Plugin.
 
 ### Campos de configuração
 
