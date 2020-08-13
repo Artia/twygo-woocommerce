@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Twygo WooCommerce
-* Plugin URI: https://github.com/Artia/Twygo-WooCommerce
+* Plugin URI: https://artia.github.io/twygo-woocommerce
 * Description: Integração entre Twygo e WooCommerce.
 * Version: 1.0
 * Author: Henrique Schmeller
@@ -14,72 +14,72 @@ require_once('services/TestButtonService.php');
 
 add_action( 'admin_menu', 'twygo_woocommerce_menu' );
 function twygo_woocommerce_menu() {
-    add_menu_page(
-        __( 'Twygo WooCommerce' ),
-        __( 'Twygo WooCommerce' ),
-        'manage_options',
-        'config-page',
-        'page_content',
-        'dashicons-schedule',
-        56
-    );
+  add_menu_page(
+    __( 'Twygo WooCommerce' ),
+    __( 'Twygo WooCommerce' ),
+    'manage_options',
+    'config-page',
+    'page_content',
+    'dashicons-schedule',
+    56
+  );
 }
 
 add_action( 'admin_init', 'settings_init' );
 function settings_init() {
 
-    add_settings_section(
-        'twygo_woocommerce_config',
-        __('Configurações Obrigatórias' ),
-        'paragraph',
-        'config-page'
-    );
+  add_settings_section(
+    'twygo_woocommerce_config',
+    __('Configurações Obrigatórias' ),
+    'paragraph',
+    'config-page'
+  );
 
-		add_settings_field(
-		   'email_twygo',
-		   __('E-mail twygo (ADMIN) *'),
-		   'email_twygo',
-		   'config-page',
-		   'twygo_woocommerce_config'
-		);
+  add_settings_field(
+    'email_twygo',
+    __('E-mail twygo (ADMIN) *'),
+    'email_twygo',
+    'config-page',
+    'twygo_woocommerce_config'
+  );
 
-    add_settings_field(
-       'password_twygo',
-       __('Senha twygo *'),
-       'password_twygo',
-       'config-page',
-       'twygo_woocommerce_config'
-    );
+  add_settings_field(
+    'password_twygo',
+    __('Senha twygo *'),
+    'password_twygo',
+    'config-page',
+    'twygo_woocommerce_config'
+  );
 
-    add_settings_field(
-       'organization_id_twygo',
-       __('ID da sua organização twygo *'),
-       'organization_id_twygo',
-       'config-page',
-       'twygo_woocommerce_config'
-    );
+  add_settings_field(
+    'organization_id_twygo',
+    __('ID da sua organização twygo *'),
+    'organization_id_twygo',
+    'config-page',
+    'twygo_woocommerce_config'
+  );
 
-    add_settings_field(
-       'tag_twygo',
-       __('Tag para criação do curso no twygo *'),
-       'tag_twygo',
-       'config-page',
-       'twygo_woocommerce_config'
-    );
+  add_settings_field(
+    'tag_twygo',
+    __('Tag para criação do curso no twygo *'),
+    'tag_twygo',
+    'config-page',
+    'twygo_woocommerce_config'
+  );
 
-    add_settings_field(
-       'url_twygo',
-       __('URL Twygo'),
-       'url_twygo',
-       'config-page',
-       'twygo_woocommerce_config'
-    );
+  add_settings_field(
+    'url_twygo',
+    __('URL Twygo'),
+    'url_twygo',
+    'config-page',
+    'twygo_woocommerce_config'
+  );
 
-		register_setting( 'config-page', 'email_twygo' );
-    register_setting( 'config-page', 'password_twygo' );
-    register_setting( 'config-page', 'organization_id_twygo' );
-    register_setting( 'config-page', 'tag_twygo' );
-    register_setting( 'config-page', 'url_twygo' );
+  register_setting( 'config-page', 'email_twygo' );
+  register_setting( 'config-page', 'password_twygo' );
+  register_setting( 'config-page', 'organization_id_twygo' );
+  register_setting( 'config-page', 'tag_twygo' );
+  register_setting( 'config-page', 'url_twygo' );
 }
 
 add_action( 'save_post', 'send_to_twygo', 10, 1 );
