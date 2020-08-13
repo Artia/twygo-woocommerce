@@ -14,7 +14,7 @@ Após informar os dados obrigatorios, clique no botão <strong>Validar informaç
 
 ### 2. Sucesso
 
-Se os seus dados estão corretos e atendendo aos criterios da sessão [configurações](/pages/configuracoes/configuracoes.md#configuracões), a seguinte mensagem será exibida:
+Se os seus dados estão corretos e atendendo aos criterios da sessão [configurações](/pages/configuracoes/configuracoes.md), a seguinte mensagem será exibida:
 
 <figure class="thumbnails">
   <img src="_media/success.png" alt="Screenshot of coverpage" title="Sucesso">
@@ -39,3 +39,7 @@ Após receber o <strong>sucesso</strong> ao validar os dados, clique no botão <
 <figure class="thumbnails">
   <img src="_media/save.png" alt="Screenshot of coverpage" title="Salvando informações">
 </figure>
+
+<br/>
+
+Agora esta tudo pronto para você utilizar a plataforma! 😎

@@ -58,4 +58,4 @@ O último campo não tem o preenchimento obrigatorio, caso não seja informado, 
 
 <br/>
 
-Agora com o plugin configurado, vamos [testar](/pages/configuracoes/validando.md#validando-as-informações) as informações adicionadas, para finalizar o processo de configuração. 😀
+Agora com o plugin configurado, vamos [testar](/pages/configuracoes/validando.md) as informações adicionadas, para finalizar o processo de configuração. 😀

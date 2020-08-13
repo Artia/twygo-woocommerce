@@ -56,4 +56,4 @@ Após salvar o produto no WooCommerce, ele será enviado ao Twygo e você podera
 
 <br/>
 
-Agora é só aguardar algum pedido ser efetuado, que automaticamente o cliente será cadastrado no curso e na sua organização, como exemplificado neste [link](/pages/utilizacao/criando_participantes.md#Criando-participantes).
+Agora é só aguardar algum pedido ser efetuado, que automaticamente o cliente será cadastrado no curso e na sua organização. Veja a exemplificação [clicando aqui](/pages/utilizacao/criando_participantes.md).
