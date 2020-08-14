@@ -21,7 +21,7 @@ Quando um pedido for concluído com sucesso, o plugin cadastrará automáticamen
 
 <br/>
 
-<strong style="font-size: 12px;">Obs: O curso precisa ter sido cadastrado previamente no WooCommerce e ter sido enviado para o Twygo. Caso contrário deverá ser mapeado uma equivalência de Produto WooCommerce com Curso Twygo já existente, para funcionar está integração.</strong>
+<strong style="font-size: 12px;">Obs: O curso precisa ter sido cadastrado previamente no WooCommerce e ter sido enviado para o Twygo (com o Plugin). Caso contrário deverá ser mapeado uma equivalência de Produto WooCommerce com Curso Twygo já existente, para funcionar está integração. Para mais detalhes, entre em contato em: fale@twygo.com</strong>
 
 <br/>
 
