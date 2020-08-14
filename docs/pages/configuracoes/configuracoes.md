@@ -20,7 +20,9 @@ Os dois primeiros campos deverão conter as informações da sua <strong>conta d
   <img src="_media/conta.png" alt="Screenshot of coverpage" title="Adicionando dados da conta">
 </figure>
 
-##### Obs: A conta informada OBRIGATORIAMENTE deverá possuir o prefil de ADMINISTRADOR na organização.
+<br/>
+
+<strong style="font-size: 12px;">Obs: A conta informada OBRIGATORIAMENTE deverá possuir o perfil de ADMINISTRADOR na organização.</strong>
 
 <br/>
 
@@ -32,7 +34,9 @@ O campo abaixo deverá conter o ID da sua <strong>Organização do Twygo</strong
   <img src="_media/id_org.png" alt="Screenshot of coverpage" title="Adicionando ID da organização">
 </figure>
 
-##### Obs: A conta informada no passo anterior, OBRIGATORIAMENTE deverá ser ADMINISTRADOR nessa organização.
+<br/>
+
+<strong style="font-size: 12px;">Obs: A conta informada no passo anterior, OBRIGATORIAMENTE deverá ser ADMINISTRADOR nessa organização.</strong>
 
 <br/>
 
@@ -44,13 +48,15 @@ O campo abaixo deverá conter a <strong>Tag</strong> que será informada nos pro
   <img src="_media/tag.png" alt="Screenshot of coverpage" title="Adicionando a tag">
 </figure>
 
-##### Obs: Somente será enviado ao Twygo, os produtos que conterem a Tag informada.
+<br/>
+
+<strong style="font-size: 12px;">Obs: Somente será enviado ao Twygo, os produtos que conterem a Tag informada.</strong>
 
 <br/>
 
 ### Adicionando a URL
 
-O último campo não tem o preenchimento obrigatorio, caso não seja informado, será <strong>https://www.twygoead.com</strong>.
+O último campo não tem o preenchimento obrigatorio, caso não seja preenchido, o padrão será <strong>https://www.twygoead.com</strong>.
 
 <figure class="thumbnails">
   <img src="_media/url.png" alt="Screenshot of coverpage" title="Adicionando a URL">

@@ -30,7 +30,7 @@
 
 4. O quarto e último passo é salvar o seu produto. Para esse passo há duas possibilidades, que geram resultados diferentes.
 
-- <strong>Salvar como rascunho</strong>: Envia seu produto para o Twygo com o status "Em desenvolvimento". Ou seja, não permite que alunos se inscrevam ou acessem o conteúdo. Uma otima opção se você precisa adicionar o material previamente ao curso.
+- <strong>Salvar como rascunho</strong>: Envia seu produto para o Twygo com o status "Em desenvolvimento". Ou seja, não permite que alunos se inscrevam ou acessem o conteúdo. Com esse status será possível incluir os conteúdos do curso no Twygo, antes da liberação para comercialização.
 
 - <strong>Publicar</strong>: Envia seu produto para o Twygo com o status "Liberado". Permitindo que alunos se inscrevam ou acessem o conteúdo. Você poderá salvar inicialmente como rascunho e depois publicar seu produto, essa ação atualizará o status do curso para "Liberado".
 
@@ -42,7 +42,8 @@
 
 ### Recebendo o curso no Twygo
 
-Após salvar o produto no WooCommerce, ele será enviado ao Twygo e você podera adicionar normalmente todos os conteúdos que desejar.
+Após salvar o produto no WooCommerce, ele será enviado ao Twygo e você poderá adicionar normalmente todos os conteúdos que desejar.
+
 
 <figure class="thumbnails">
   <img src="_media/twygo_course.png" alt="Screenshot of coverpage" title="Adicionando a tag">
@@ -53,6 +54,11 @@ Após salvar o produto no WooCommerce, ele será enviado ao Twygo e você podera
 <figure class="thumbnails">
   <img src="_media/edit_course.png" alt="Screenshot of coverpage" title="Adicionando a tag">
 </figure>
+
+<br/>
+
+<strong style="font-size: 12px;">Obs: O curso será criado com a opção "Confirmação de inscrição pelo organizador" desabilidata. Você poderá alterar essa opção diretamente na edição do curso.</strong>
+
 
 <br/>
 

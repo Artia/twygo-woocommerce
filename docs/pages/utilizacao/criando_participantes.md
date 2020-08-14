@@ -40,4 +40,6 @@ Após o pedido ser efetudo no WooCommerce com o status "concluído", o cliente s
   <img src="_media/list_user_org.png" alt="Screenshot of coverpage" title="Adicionando um pedido">
 </figure>
 
-##### Obs: Você poderá editar o curso no Twygo para exigir a confirmação da inscrição. Essa ação resultará no cadastro dos clientes como "pendentes" no curso adquirido pelo WooCommerce.
+<br/>
+
+<strong style="font-size: 12px;">Obs: Você poderá editar o curso no Twygo para exigir a confirmação da inscrição. Essa ação resultará no cadastro dos clientes como "pendentes" no curso adquirido pelo WooCommerce.</strong>
