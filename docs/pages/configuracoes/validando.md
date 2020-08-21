@@ -4,7 +4,7 @@
 
 ### 1. Testando os dados informados
 
-Após informar os dados obrigatorios, clique no botão <strong>Validar informações</strong>, para validas as informações dos campos.
+Após informar os dados obrigatórios, clique no botão <strong>Validar informações</strong>, para validas as informações dos campos.
 
 <figure class="thumbnails">
   <img src="_media/testando.png" alt="Screenshot of coverpage" title="Validando as informações">
@@ -14,7 +14,7 @@ Após informar os dados obrigatorios, clique no botão <strong>Validar informaç
 
 ### 2. Sucesso
 
-Se os seus dados estão corretos e atendendo aos criterios da sessão [configurações](/pages/configuracoes/configuracoes.md), a seguinte mensagem será exibida:
+Se os seus dados estão corretos e atendendo aos critérios da sessão [configurações](/pages/configuracoes/configuracoes.md), a seguinte mensagem será exibida:
 
 <figure class="thumbnails">
   <img src="_media/success.png" alt="Screenshot of coverpage" title="Sucesso">

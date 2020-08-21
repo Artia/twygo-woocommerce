@@ -50,13 +50,13 @@ O campo abaixo deverá conter a <strong>Tag</strong> que será informada nos pro
 
 <br/>
 
-<strong style="font-size: 12px;">Obs: Somente será enviado ao Twygo, os produtos que conterem a Tag informada.</strong>
+<strong style="font-size: 12px;">Obs: Somente será enviado ao Twygo, os produtos que contém a Tag informada.</strong>
 
 <br/>
 
 ### Adicionando a URL
 
-O último campo não tem o preenchimento obrigatorio, caso não seja preenchido, o padrão será <strong>https://www.twygoead.com</strong>.
+O último campo não tem o preenchimento obrigatório, caso não seja preenchido, o padrão será <strong>https://www.twygoead.com</strong>.
 
 <figure class="thumbnails">
   <img src="_media/url.png" alt="Screenshot of coverpage" title="Adicionando a URL">

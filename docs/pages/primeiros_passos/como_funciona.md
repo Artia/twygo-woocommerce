@@ -5,7 +5,7 @@
 ### 1. Criação de Produtos
 
 Ao cadastrar um produto na sua loja WooCommerce, ele é automáticamente criado no Twygo.
-O cadastro automático do produto na plataforma, somete será efetuado, se o mesmo possuir a tag previamente informada nas configurações do plugin.
+O cadastro automático do produto na plataforma, somente será efetuado, se o mesmo possuir a tag previamente informada nas configurações do plugin.
 
 Se o produto for salvo como rascunho, será criado um curso "Em desenvolvimento". Caso seja publicado no WooCommerce, ele será liberado no Twygo (permitindo que alunos se inscrevam ou acessem o conteúdo).
 
@@ -17,11 +17,11 @@ Se o produto for salvo como rascunho, será criado um curso "Em desenvolvimento"
 
 ### 2. Compra de produtos por um cliente
 
-Quando um pedido for concluído com sucesso, o plugin cadastrará automáticamente o cliente no curso (Produto) que foi adquirido na compra.
+Quando um pedido for concluído com sucesso, o plugin cadastrará automaticamente o cliente no curso (Produto) que foi adquirido na compra.
 
 <br/>
 
-<strong style="font-size: 12px;">Obs: O curso precisa ter sido cadastrado previamente no WooCommerce e ter sido enviado para o Twygo (com o Plugin). Caso contrário deverá ser mapeado uma equivalência de Produto WooCommerce com Curso Twygo já existente, para funcionar está integração. Para mais detalhes, entre em contato em: fale@twygo.com</strong>
+<strong style="font-size: 12px;">Obs: O curso precisa ter sido cadastrado previamente no WooCommerce e ter sido enviado para o Twygo (com o Plugin). Caso contrário deverá ser mapeado uma equivalência de Produto WooCommerce com Curso Twygo já existente, para funcionar esta integração. Para mais detalhes, entre em contato em: fale@twygo.com</strong>
 
 <br/>
 
