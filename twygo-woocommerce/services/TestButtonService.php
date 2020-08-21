@@ -8,7 +8,7 @@ function test_button() {
         const password = document.getElementById('password_twygo').value;
 
         $.ajax({
-            url: 'https://alpha.twygo.com/oauth/token',
+            url: 'http://pre.twygo.com/oauth/token',
             dataType: 'json',
             type: 'POST',
             data: {
