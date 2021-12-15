@@ -4,11 +4,12 @@ function test_button() {
   echo "<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
     <script>
       function test_infos() {
+        const url = document.getElementById('url_twygo').value;
         const email = document.getElementById('email_twygo').value;
         const password = document.getElementById('password_twygo').value;
 
         $.ajax({
-            url: 'https://www.twygoead.com/oauth/token',
+            url: url+'/oauth/token',
             dataType: 'json',
             type: 'POST',
             data: {
