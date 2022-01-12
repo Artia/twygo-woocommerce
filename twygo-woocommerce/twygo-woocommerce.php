@@ -100,7 +100,14 @@ function send_to_twygo( $post_ID ) {
         'last_name' => $order->billing_last_name,
         'email' => $order->billing_email,
         'enterprise' => empty($order->billing_company) ? 'WooCommerce' : $order->billing_company,
-        'events_external_ids' => $external_ids
+        'events_external_ids' => $external_ids,
+        'city' => empty($order->billing_city) ? 'WooCommerce' : $order->billing_city,
+        'state' => empty($order->billing_state) ? 'WooCommerce' : $order->billing_state,
+        'country' => empty($order->billing_country) ? 'Brasil' : $order->billing_country,
+        'phone1' => empty($order->billing_phone) ? '(99) 9999-9999' : $order->billing_phone,
+        'phone2' => empty($order->billing_phone) ? '(99) 9999-9999' : $order->billing_phone,
+        'address' => empty($order->billing_address_1) ? 'WooCommerce' : $order->billing_address_1,
+        'address2' => empty($order->billing_address_2) ? 'WooCommerce' : $order->billing_address_2
       );
       $url = get_option( 'url_twygo' ) == false ? 'https://www.twygoead.com' : get_option( 'url_twygo' );
       $token = getToken($data, get_option( 'email_twygo' ), get_option( 'password_twygo' ), $url);
