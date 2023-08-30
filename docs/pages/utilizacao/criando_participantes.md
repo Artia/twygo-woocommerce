@@ -1,8 +1,8 @@
-# Criando participantes
+# Testando a criação de participantes
 
 > Para este tutorial é necessário saber como o Plugin funciona, saiba mais [clicando aqui](/pages/primeiros_passos/como_funciona)
 
-> <strong>Observação</strong>: A utilização do plugin do WooCommerce, só é possível com o campo CPF definido como não obrigatório.
+> <strong>Observação</strong>: A utilização do plugin do WooCommerce, só é possível com o campo CPF definido como não obrigatório no superadmin da organização.
 
 ### Efetuando um pedido no WooCommerce
 
