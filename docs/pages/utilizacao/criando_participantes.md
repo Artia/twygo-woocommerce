@@ -2,6 +2,8 @@
 
 > Para este tutorial é necessário saber como o Plugin funciona, saiba mais [clicando aqui](/pages/primeiros_passos/como_funciona)
 
+> <strong>Observação</strong>: A utilização do plugin do WooCommerce, só é possível com o campo CPF definido como não obrigatório.
+
 ### Efetuando um pedido no WooCommerce
 
 1. O primeiro passo para simular um pedido, é acessar a aba <strong>WooCommerce</strong>, no painel de administrador do seu site WordPress. Após acessar, selecione a opção <strong>Pedidos</strong> e adicione um pedido.

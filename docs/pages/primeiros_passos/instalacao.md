@@ -1,6 +1,13 @@
 # Instalação
 
-> Veja como baixar o Twygo WooCommerce [clicando aqui](https://github.com/Artia/twygo-woocommerce/releases/tag/1.0.2).
+<!-- > Veja como baixar o Twygo WooCommerce [clicando aqui](https://github.com/Artia/twygo-woocommerce/releases/tag/1.0.2). -->
+
+### Requisito para intalação
+É necessário ter o plugin do WooCommerce instalado e configurado em seu site.
+
+### Onde baixar?
+O plugin pode ser baixado
+[clicando aqui](https://github.com/Artia/twygo-woocommerce/releases/tag/1.0.2) ou [aqui](https://github.com/Artia/twygo-woocommerce/releases/download/1.0.2/twygo-woocommerce.zip).
 
 ### Passos no WordPress
 
