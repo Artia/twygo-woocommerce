@@ -4,7 +4,15 @@
 
 ### Campos de configuração
 
-Ao clicar na aba do Plugin no painel do seu site WordPress, você verá a seguinte tela:
+Selecione o Plugin da Twygo WooCommerce no menu do seu painel do seu site WordPress:
+
+<figure class="thumbnails">
+  <img src="_media/plugin_menu.png" alt="Screenshot of coverpage" title="Tela de configuração">
+</figure>
+
+<br/>
+
+Ao clicar na aba do Plugin você verá a seguinte tela:
 
 <figure class="thumbnails">
   <img src="_media/config_screen.png" alt="Screenshot of coverpage" title="Tela de configuração">
@@ -56,7 +64,7 @@ O campo abaixo deverá conter a <strong>Tag</strong> que será informada nos pro
 
 ### Adicionando a URL
 
-O último campo não tem o preenchimento obrigatório, caso não seja preenchido, o padrão será <strong>https://www.twygoead.com</strong>.
+O último campo consiste na URL da organização, seja ele subdomnio ou dominio customizado.
 
 <figure class="thumbnails">
   <img src="_media/url.png" alt="Screenshot of coverpage" title="Adicionando a URL">

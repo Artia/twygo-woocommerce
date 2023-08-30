@@ -26,6 +26,8 @@
   <img src="_media/add_tag.png" alt="Screenshot of coverpage" title="Adicionando a tag">
 </figure>
 
+> Caso a tag não seja informado ou não seja a mesma da configurada no plugin, o curso não será enviado para Twygo.
+
 <br/>
 
 4. O quarto e último passo é salvar o seu produto. Para esse passo há duas possibilidades, que geram resultados diferentes.
