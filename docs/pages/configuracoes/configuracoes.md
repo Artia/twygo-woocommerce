@@ -72,4 +72,6 @@ O último campo consiste na URL da organização, seja ele subdomnio ou dominio 
 
 <br/>
 
+> Observação: A URL deve estar completa para o funcionamento, incluindo o prefixo 'https://', por exemplo: https://subdominio.twygoead.com
+
 Agora com o plugin configurado, vamos [testar](/pages/configuracoes/validando.md) as informações adicionadas, para finalizar o processo de configuração. 😀
