@@ -122,7 +122,7 @@ function send_to_twygo( $post_ID ) {
       }
       if (in_array(get_option( 'tag_twygo' ), $tag)) {
         $url = get_option( 'url_twygo' ) == false ? 'https://www.twygoead.com' : get_option( 'url_twygo' );
-        $data = array('external_id' => $product->id, 'name' => $product->name, 'description' => $product->description, 'price' => $product->price, 'situation' => $product->status == "publish");
+        $data = array('external_id' => $product->id, 'name' => $product->name, 'description' => preg_replace('/\r\n\r\n/', '<br />', $product->description), 'price' => $product->price, 'situation' => $product->status == "publish");
         $token = getToken($data, get_option( 'email_twygo' ), get_option( 'password_twygo' ), $url);
         send_course($token, $data, get_option( 'organization_id_twygo' ), $url);
       }
