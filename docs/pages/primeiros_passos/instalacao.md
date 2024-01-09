@@ -7,7 +7,7 @@
 
 ### Onde baixar?
 O plugin pode ser baixado
-[clicando aqui](https://github.com/Artia/twygo-woocommerce/releases/tag/1.0.2) ou [diretamente aqui](https://github.com/Artia/twygo-woocommerce/releases/download/1.0.2/twygo-woocommerce.zip).
+[clicando aqui](https://github.com/Artia/twygo-woocommerce/releases/tag/1.0.3) ou [diretamente aqui](https://github.com/Artia/twygo-woocommerce/releases/download/1.0.3/twygo-woocommerce.zip).
 
 ### Passos no WordPress
 
