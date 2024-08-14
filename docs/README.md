@@ -5,7 +5,7 @@
 ### Índice da documentação
 
 #### Primeiros Passos  
-  - [Como funciona?](/pages/primeiros_passos/como_funciona.md)
+  - [Como funciona?](/docs/pages/primeiros_passos/como_funciona.md)
   - [Instalação](/pages/primeiros_passos/instalacao.md)
 
 #### Adicionando configurações
