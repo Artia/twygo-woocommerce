@@ -53,9 +53,9 @@ class Twygo_WooCommerce {
     private function send_order_to_twygo( $order ) {
       $external_ids = [];
       $items = $order->get_items();
-      foreach ( $items as $index => $item ) {
-          $product_id = $item->get_product_id();
-          $external_ids[$index] = $product_id;
+      foreach ( $items as $item ) {
+        $product_id = $item->get_product_id();
+        array_push($external_ids, $product_id);
       }
   
       $data = array(
